@@ -28,6 +28,7 @@ function PricingTable(){
       </ul>
       <button className="btn">BUTTON</button>
       </div>
+      
       <div class="plus">
       <h5 className="heading">PLUS</h5>
       <p><span className="price">$9</span>/month</p>
